@@ -1,4 +1,4 @@
-I am a UTSA student currently majoring in cybersecurity*.
+I am a UTSA student currently majoring in cybersecurity.
 
 :hammer_and_wrench: Technical Skills
 <div>
